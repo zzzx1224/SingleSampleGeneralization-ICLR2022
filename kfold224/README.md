@@ -1,1 +1,1 @@
-Put images in this folder.
+Download images in this folder.

@@ -1,5 +1,5 @@
 # Learning to Generalize across Domains on Single Test Samples
-Code for paper "Learning to Generalize across Domains on Single Test Samples" submitted to ICLR 2022 with paper ID: 3853.
+Code for paper "Learning to Generalize across Domains on Single Test Samples" published at ICLR 2022.
 
 ### Prerequisites
  - Python 3.7.9
